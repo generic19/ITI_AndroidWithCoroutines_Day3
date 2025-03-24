@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Products StateFlow</string>
+    <string name="title_activity_product_detail">ProductDetailActivity</string>
+    <string name="title_activity_favorites">FavoritesActivity</string>
+</resources>
